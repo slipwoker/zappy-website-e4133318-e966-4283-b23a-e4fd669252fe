@@ -1,0 +1,58 @@
+# ליאת משעלי — Generative Engine Optimization Map
+
+> A שירותים משפטיים business.
+
+---
+
+## Pages
+
+### דף הבית
+https://-e4133318.zappy5.app
+עורכת דין ליאת משעלי מספקת ייצוג משפטי מקצועי בביטוח לאומי, חדלות פירעון ודיני משפחה. פנו עכשיו לייעוץ ראשוני חינם!
+
+### שירותים משפטיים
+https://-e4133318.zappy5.app/services
+שירותי ייצוג משפטי מקצועי: ביטוח לאומי, חדלות פירעון לעסקים קטנים, דיני משפחה וצוואות. ייעוץ מקצועי ומסור מעורכת דין ליאת משעלי.
+
+### אודות
+https://-e4133318.zappy5.app/about
+הכירו את עורכת הדין ליאת משעלי - מומחית בביטוח לאומי, חדלות פירעון ודיני משפחה. ניסיון רב ומחויבות מלאה לזכויות הלקוחות.
+
+### צור קשר
+https://-e4133318.zappy5.app/contact
+צור קשר עם עורכת הדין ליאת משעלי לקבלת ייעוץ משפטי מקצועי בביטוח לאומי, חדלות פירעון ודיני משפחה. פגישת ייעוץ ראשונית חינם!
+
+## Legal & Policy
+
+### Privacy Policy
+https://-e4133318.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-e4133318.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-e4133318.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About ליאת משעלי
+ליאת משעלי is a business in the שירותים משפטיים industry.
+
+## Target Audience
+- בעלי עסקים קטנים
+- לקוחות דיני משפחה
+
+## Industry
+שירותים משפטיים
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://-e4133318.zappy5.app/sitemap.xml
+- **Robots.txt**: https://-e4133318.zappy5.app/robots.txt
